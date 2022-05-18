@@ -1,7 +1,11 @@
 Hi 👋 My name is Antonio Rinaldi
 ================================
 
-I've been started 10 years ago with C++ in highschool and I started to get more and more interested in the world of programming up to participate in school events and competitions. I attended university and learned different programming languages ​​and methods, I cultivated my interests by discovering and loving videogame development. I started with the study of an engine like Unity 3D and C # and now I'm studying Unreal engine to expand my knowledge in the videogame field. I am very interested in AI and its application in various fields, from image recognition (and all variants) to application on robots. For this reason, after the bachelor's degree in computer science and technology, I decided to continue my studies with a master's degree in computer engineering.
+Glad to see you here! [visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+I am a software developer. I love programming, music and video games.
+
+As a developer, I like to create new and better things. I have a passion for video games and I would like to create one that reflects my imagination
 
 * 🌍  I'm based in Potenza
 * ✉️  You can contact me at [Ch4nt014@outlook.com](mailto:Ch4nt014@outlook.com)
@@ -29,10 +33,6 @@ I've been started 10 years ago with C++ in highschool and I started to get more 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/CH4nt014"><img src="https://github-readme-stats.vercel.app/api?username=CH4nt014&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CH4nt014's GitHub stats" /></a>
-
-<a href="http://www.github.com/CH4nt014"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CH4nt014&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/CH4nt014"><img src="https://activity-graph.herokuapp.com/graph?username=CH4nt014&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/CH4nt014"><img src="https://github-readme-stats.vercel.app/api?username=CH4nt014&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CH4nt014's GitHub stats" /></a>   <a href="http://www.github.com/CH4nt014"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CH4nt014&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/CH4nt014" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CH4nt014&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
