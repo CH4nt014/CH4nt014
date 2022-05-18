@@ -4,6 +4,8 @@ Hi 👋 My name is Antonio Rinaldi
 I've been started 10 years ago with C++ in highschool and I started to get more and more interested in the world of programming up to participate in school events and competitions. I attended university and learned different programming languages ​​and methods, I cultivated my interests by discovering and loving videogame development. I started with the study of an engine like Unity 3D and C # and now I'm studying Unreal engine to expand my knowledge in the videogame field. I am very interested in AI and its application in various fields, from image recognition (and all variants) to application on robots. For this reason, after the bachelor's degree in computer science and technology, I decided to continue my studies with a master's degree in computer engineering.
 
 * 🌍  I'm based in Potenza
+* ✉️  You can contact me at [Ch4nt014@outlook.com](mailto:Ch4nt014@outlook.com)
+* 🧠  I'm learning Unreal Engine, Unity 3D
 
 ### Skills
 
