@@ -1,7 +1,7 @@
 Hi 👋 My name is Antonio Rinaldi
 ================================
 
-Glad to see you here! [visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+Glad to see you here! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
 I am a software developer. I love programming, music and video games.
 
