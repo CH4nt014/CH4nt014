@@ -7,7 +7,7 @@ I am a software developer. I love programming, music and video games.
 
 As a developer, I like to create new and better things. I have a passion for video games and I would like to create one that reflects my imagination
 
-* 🌍  I'm based in Potenza
+* 🌍  My portfolio https://ch4nt014.github.io/
 * ✉️  You can contact me at [Ch4nt014@outlook.com](mailto:Ch4nt014@outlook.com)
 * 🧠  I'm learning Unreal Engine, Unity 3D
 
