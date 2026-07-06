@@ -1,7 +1,7 @@
 Hi 👋 My name is Antonio Rinaldi
 ================================
 
-Glad to see you here! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ch4nt014.visitor-badge)
+Glad to see you here!
 
 I am a software developer. I love programming, music and video games.
 
@@ -31,11 +31,3 @@ As a developer, I like to create new and better things. I have a passion for vid
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/CH4nt014" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/antonio-rinaldi-871252216" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/CH4nt014"><img src="https://github-readme-stats.vercel.app/api?username=CH4nt014&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CH4nt014's GitHub stats" /></a>   <a href="http://www.github.com/CH4nt014"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CH4nt014&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/CH4nt014" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CH4nt014&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
